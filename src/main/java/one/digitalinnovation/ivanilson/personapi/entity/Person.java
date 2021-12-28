@@ -25,7 +25,6 @@ public class Person {
     @Column(nullable = false)
     private String firstName;
 
-    @Column(nullable = false)
     private String lastName;
 
     @Column(nullable = false, unique = true)
