@@ -1,7 +1,7 @@
 package one.digitalinnovation.ivanilson.personapi.controller;
 
 import lombok.AllArgsConstructor;
-import one.digitalinnovation.ivanilson.personapi.dto.MessageResponseDTO;
+import one.digitalinnovation.ivanilson.personapi.dto.response.MessageResponseDTO;
 import one.digitalinnovation.ivanilson.personapi.dto.request.PersonDTO;
 import one.digitalinnovation.ivanilson.personapi.exception.PersonalNotFoundException;
 import one.digitalinnovation.ivanilson.personapi.service.PersonService;

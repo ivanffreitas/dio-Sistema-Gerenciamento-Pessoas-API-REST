@@ -37,10 +37,8 @@ Neste projeto foi utilizado:
 * Intellij Community
 * h2 database
 
-Abaixo, seguem meus contatos 😎
-
 ##
-
+Contatos 😎
   <div>    
     <a href="https://www.linkedin.com/in/ivanilson-f-freitas-b6020515b/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
